@@ -1,0 +1,278 @@
+{
+  "items" : [ {
+    "body" : {
+      "value" : "f17rop1_i_honestes",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=1519,150,403,175",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_honestes"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_de_valeur",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=2046,103,444,260",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_de_valeur"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i__la_leurs",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=547,320,222,194",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i__la_leurs"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_ou",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=829,376,75,141",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_ou"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_et_ont",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=2115,376,718,84",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_et_ont"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_composé_propre",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=531,550,1051,141",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_composé_propre"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_en",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=1905,555,145,132",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_en"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_s2",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=2712,502,125,215",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_s2"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_louanges_remerque",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=508,676,592,230",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_louanges_remerque"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_s6",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=1087,760,58,120",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_s6"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_vertueuses_belles",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=1162,657,530,205",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_vertueuses_belles"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_s1",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=772,415,100,112",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_s1"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_s3",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=2803,545,67,112",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_s3"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_s4",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=900,759,86,123",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_s4"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_s7",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=1082,695,65,75",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_s7"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_t_ent",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=1913,482,214,173",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_t_ent"
+  }, {
+    "body" : {
+      "value" : "f17rop1_i_s5",
+      "type" : "TextualBody"
+    },
+    "target" : {
+      "source" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=972,692,98,138",
+        "type" : "FragmentSelector"
+      }
+    },
+    "motivation" : "supplementing",
+    "type" : "Annotation",
+    "id" : "https://example.org/iiif/mon-manuscrit/annotation/f17rop1_i_s5"
+  } ],
+  "@context" : "http://www.w3.org/ns/anno.jsonld",
+  "type" : "AnnotationPage",
+  "id" : "https://gromettoclara.github.io/testhenri2/annotations/annotations.json"
+}
