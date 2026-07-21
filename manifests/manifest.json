@@ -3,33 +3,38 @@
   "id": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json",
   "type": "Manifest",
   "label": {
-    "fr": ["Page"]
+    "fr": [ "Page" ]
   },
   "items": [
     {
-      "id": "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "id": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
       "type": "Canvas",
-
+      "width": 3562,
+      "height": 1115,
+      "label": {
+        "fr": [ "Page 1" ]
+      },
       "items": [
         {
-          "id": "https://example.org/iiif/mon-manuscrit/page/image",
+          "id": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1/page/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://example.org/iiif/mon-manuscrit/annotation/image",
+              "id": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://example.org/iiif/mon-manuscrit/canvas/1",
+              "target": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
               "body": {
                 "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525191290/f39/199,369,3562,1115/full/0/default.jpg",
                 "type": "Image",
-                "format": "image/jpeg"
+                "format": "image/jpeg",
+                "width": 3562,
+                "height": 1115
               }
             }
           ]
         }
       ],
-
       "annotations": [
         {
           "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json",
