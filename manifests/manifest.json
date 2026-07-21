@@ -1,0 +1,31 @@
+{
+  "items" : [ {
+    "items" : [ {
+      "items" : [ {
+        "body" : {
+          "format" : "image/jpeg",
+          "type" : "Image",
+          "id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525191290/f39/199,369,3562,1115/full/0/default.jpg"
+        },
+        "target" : "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "motivation" : "painting",
+        "type" : "Annotation",
+        "id" : "https://example.org/iiif/mon-manuscrit/annotation/image"
+      } ],
+      "type" : "AnnotationPage",
+      "id" : "https://example.org/iiif/mon-manuscrit/page/image"
+    } ],
+    "annotations" : [ {
+      "type" : "AnnotationPage",
+      "id" : "https://example.org/iiif/mon-manuscrit/annotations"
+    } ],
+    "type" : "Canvas",
+    "id" : "https://example.org/iiif/mon-manuscrit/canvas/1"
+  } ],
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "label" : {
+    "fr" : [ "Page" ]
+  },
+  "type" : "Manifest",
+  "id" : "https://gromettoclara.github.io/testhenri2/manifests/manifest.json"
+}
