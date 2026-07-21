@@ -1,31 +1,41 @@
 {
-  "items" : [ {
-    "items" : [ {
-      "items" : [ {
-        "body" : {
-          "format" : "image/jpeg",
-          "type" : "Image",
-          "id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525191290/f39/199,369,3562,1115/full/0/default.jpg"
-        },
-        "target" : "https://example.org/iiif/mon-manuscrit/canvas/1",
-        "motivation" : "painting",
-        "type" : "Annotation",
-        "id" : "https://example.org/iiif/mon-manuscrit/annotation/image"
-      } ],
-      "type" : "AnnotationPage",
-      "id" : "https://example.org/iiif/mon-manuscrit/page/image"
-    } ],
-    "annotations" : [ {
-      "type" : "AnnotationPage",
-      "id" : "https://example.org/iiif/mon-manuscrit/annotations"
-    } ],
-    "type" : "Canvas",
-    "id" : "https://example.org/iiif/mon-manuscrit/canvas/1"
-  } ],
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "label" : {
-    "fr" : [ "Page" ]
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "fr": ["Page"]
   },
-  "type" : "Manifest",
-  "id" : "https://gromettoclara.github.io/testhenri2/manifests/manifest.json"
+  "items": [
+    {
+      "id": "https://example.org/iiif/mon-manuscrit/canvas/1",
+      "type": "Canvas",
+
+      "items": [
+        {
+          "id": "https://example.org/iiif/mon-manuscrit/page/image",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/mon-manuscrit/annotation/image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/iiif/mon-manuscrit/canvas/1",
+              "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525191290/f39/199,369,3562,1115/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              }
+            }
+          ]
+        }
+      ],
+
+      "annotations": [
+        {
+          "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json",
+          "type": "AnnotationPage"
+        }
+      ]
+    }
+  ]
 }
