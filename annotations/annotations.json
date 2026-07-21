@@ -7,9 +7,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_honestes",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_honestes" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_honestes"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -21,9 +24,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_de_valeur",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_de_valeur" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_de_valeur"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -35,9 +41,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i__la_leurs",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i__la_leurs" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i__la_leurs"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -49,9 +58,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_ou",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_ou" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_ou"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -63,9 +75,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_et_ont",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_et_ont" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_et_ont"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -77,9 +92,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_composé_propre",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_composé_propre" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_composé_propre"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -91,9 +109,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_en",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_en" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_en"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -105,9 +126,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_s2",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_s2" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_s2"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -119,9 +143,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_louanges_remerque",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_louanges_remerque" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_louanges_remerque"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -133,9 +160,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_s6",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_s6" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_s6"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -147,9 +177,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_vertueuses_belles",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_vertueuses_belles" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_vertueuses_belles"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -161,9 +194,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_s1",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_s1" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_s1"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -175,9 +211,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_s3",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_s3" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_s3"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -189,9 +228,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_s4",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_s4" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_s4"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -203,9 +245,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_s7",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_s7" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_s7"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -217,9 +262,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_t_ent",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_t_ent" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_t_ent"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
@@ -231,9 +279,12 @@
       "id": "https://gromettoclara.github.io/testhenri2/annotations/annotations.json/f17rop1_i_s5",
       "type": "Annotation",
       "motivation": "supplementing",
-      "body": { "type": "TextualBody", "value": "f17rop1_i_s5" },
+      "body": {
+        "type": "TextualBody",
+        "value": "f17rop1_i_s5"
+      },
       "target": {
-        "source": "https://example.org/iiif/mon-manuscrit/canvas/1",
+        "source": "https://gromettoclara.github.io/testhenri2/manifests/manifest.json/canvas/1",
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
